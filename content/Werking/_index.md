@@ -12,7 +12,7 @@ draft: false
    * Werk- en doegericht: allerlei arbeidsgeorënteerde activiteiten, creativiteit, huishouden… (in alle activiteiten gaat het om het proces, attitudes, oriëntatie, leren, doelen…) Intern en buiten de locatie.
    * Lichaamsgericht: beweging/conditie, aandacht, relaxatie…
    * Verbaal, psychotherapeutisch: krachtgericht, groep met betrekking tot persoonlijk herstelplan, ik en de wereld, stress/kwetsbaarheid, crisisplan, ACT, schemagericht, themagroep, psycho-educatief (psychosomatiek, depressie, slaap…)
-   * Sociale zelfstandigheid: administratie/financiën/juridische
+   * Sociale zelfstandigheid: administratie, financiën, juridische zelfstandigheid
 
 ### Uitleg weekprogramma
 #### Aandachtsgericht werken (bodyscan)
