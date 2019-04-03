@@ -1,3 +1,7 @@
+/* Site specific modifications on the original theme:
+   l356
+*/
+
 @charset "UTF-8";
 
 /* Tags */
@@ -347,7 +351,9 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     border: 1px solid #ccc;
 }
 #body .padding {
-    padding: 3rem 6rem;
+    /* Change top padding below to 0 instead of 3 because it pads too much on desktops: */
+    /* padding: 3rem 6rem; */
+    padding: 0rem 6rem;
 }
 @media only all and (max-width: 59.938em) {
     #body .padding {
