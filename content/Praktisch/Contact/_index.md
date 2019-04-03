@@ -15,9 +15,9 @@ draft: false
 
 Of contacteer ons via onderstaand formulier:
 <form method="POST" action="https://formspree.io/dadeprost@gmail.com">
-  <input type="email" name="email" placeholder="Uw email-adres *" style="width: 20em;" required>
-  <input type="text" name="subject" placeholder="Onderwerp" style="width: 20em;">
-  <textarea name="message" placeholder="Typ uw vraag ..." style="width: 50em; height: 15em;" required></textarea>
+  <input type="email" name="email" placeholder="Uw email-adres *" style="width: 20em; max-width:100%;" required>
+  <input type="text" name="subject" placeholder="Onderwerp" style="width: 20em; max-width:100%;">
+  <textarea name="message" placeholder="Typ uw vraag ..." style="width: 50em; height: 15em; max-width:100%;" required></textarea>
   <br>
   <button type="submit">Verstuur</button>
 </form>
