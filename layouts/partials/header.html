@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
   <head>
+    <!-- Adding the manifest.json here to get pwa functionality: -->
     <link rel="manifest" href="/manifest.json">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,6 +40,14 @@
   <body class="" data-url="{{ .RelPermalink }}">
     {{ partial "menu.html" . }}
         <section id="body">
+        <!-- Adding the banner here so it is visible at the top of all pages, and links to home: -->
+        <a href="/">
+          <img src="/images/banner.png" alt="Banner" style="display:block; margin: 0 auto; width:100%; position:relative; top:0;">
+        </a>
+        <!-- There is still a problem with the .padding class below; 
+             it generates too much padding on desktops, so we alter the theme.css
+             => see static/css/theme.css l355!
+        -->
         <div id="overlay"></div>
         <div class="padding highlightable">
               {{if not .IsHome}}

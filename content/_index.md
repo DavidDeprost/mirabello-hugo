@@ -3,8 +3,6 @@ title: "Mirabello"
 date: 2018-05-10T20:48:28+02:00
 draft: false
 ---
-<img src="images/banner.png" alt="Banner" style="display:block; margin: 0 auto; width:100%; position:relative; top:0;">
-
 # Mirabello
 
 Na 4 jaar werking vanuit het Handelsdokcenter, Stapelplein 70 / 103 Gent, verhuist het Psycho-Sociaal Revalidatiecentrum Mirabello.
