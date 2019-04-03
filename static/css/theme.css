@@ -1,5 +1,5 @@
-/* Site specific modifications on the original theme:
-   l356
+/* Mirabello specific modifications on the original theme:
+   l356, l477-490
 */
 
 @charset "UTF-8";
@@ -473,6 +473,22 @@ h1 {
     color: #222;
     font-weight: 200;
 }
+
+/* Add small screen modifications for overflowing h1 titles: */
+@media only all and (max-width: 59.938em) {
+  h1 {
+    /* Decrease font-size because it overflows on mobile: */
+    font-size: 2.5rem;
+  }
+}
+@media only all and (max-width: 47.938em) {
+  h1 {
+    /* Decrease font-size because it overflows on mobile: */
+    font-size: 2.5rem;
+  }
+}
+/* End of modifications */
+
 blockquote {
     border-left: 10px solid #F0F2F4;
 }
