@@ -44,5 +44,5 @@ De cliënten komen in aanmerking voor arbeidscoaching als ze:
 #### Contact
 Ward Ascoop  
 Tel: 09/2251520  
-Email: [ward.ascoop@rcmirabello.be](mailto:ward.ascoop@rcmirabello.be)  
+Email: <a href="mailto:ward.ascoop@rcmirabello.be" style='display:inline-block;'>**ward.ascoop@rcmirabello.be**</a>  
 Adres: Kasteellaan 66, 9000 Gent

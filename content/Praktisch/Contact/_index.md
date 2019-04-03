@@ -7,11 +7,11 @@ draft: false
 
 #### Centrum
 * Tel: 09/225 15 20, bereikbaar tussen 8u30 en 16u30.
-* Email: [info@rcmirabello.be](mailto:info@rcmirabello.be)
+* Email: [**info@rcmirabello.be**](mailto:info@rcmirabello.be)
 
 #### Coördinator Bob Crombez
 * GSM: 0473/24 59 05
-* Email: [bob.crombez@rcmirabello.be](mailto:bob.crombez@rcmirabello.be)
+* Email: [**bob.crombez@rcmirabello.be**](mailto:bob.crombez@rcmirabello.be)
 
 Of contacteer ons via onderstaand formulier:
 <form method="POST" action="https://formspree.io/dadeprost@gmail.com">
