@@ -7,12 +7,30 @@ draft: false
 
 Negen polyvalente teamleden werken in een inter- en transdisciplinaire omgeving:
 
-[Arne Lambert](mailto:arne.lambert@rcmirabello.be), maatschappelijk werk, werk- en doegericht werk  
-[Bob Crombez](mailto:bob.crombez@rcmirabello.be), coördinator en psychotherapeutisch werk  
-[Claudine De Baets](mailto:claudine.debaets@rcmirabello.be), administratief werk  
-[Hanne Eeckhout](mailto:hanne.eeckhout@rcmirabello.be), werk- en doegericht werk  
-[Katrien Reynaert](mailto:katrien.reynaert@rcmirabello.be), psychotherapeutisch werk  
-[Lien Couchez](mailto:lien.couchez@rcmirabello.be), werk- en doegericht werk  
-[Lisa Rogiers](mailto:lisa.rogiers@rcmirabello.be), psychotherapeutisch werk  
-[Lorentz Verbeerst](mailto:lorentz.verbeerst@rcmirabello.be), psychiater  
-[Stefanie Hoebeeck](mailto:stefanie.hoebeeck@rcmirabello.be), lichaamsgericht werk  
+* **Arne Lambert:**  
+maatschappelijk werk, werk- en doegericht werk  
+[arne.lambert@rcmirabello.be](mailto:arne.lambert@rcmirabello.be)
+* **Bob Crombez:**  
+coördinator en psychotherapeutisch werk  
+[bob.crombez@rcmirabello.be](mailto:bob.crombez@rcmirabello.be)
+* **Claudine De Baets:**  
+administratief werk  
+[claudine.debaets@rcmirabello.be](mailto:claudine.debaets@rcmirabello.be)
+* **Hanne Eeckhout:**  
+werk- en doegericht werk  
+[hanne.eeckhout@rcmirabello.be](mailto:hanne.eeckhout@rcmirabello.be)
+* **Katrien Reynaert:**  
+psychotherapeutisch werk  
+[katrien.reynaert@rcmirabello.be](mailto:katrien.reynaert@rcmirabello.be)
+* **Lien Couchez:**  
+werk- en doegericht werk  
+[lien.couchez@rcmirabello.be](mailto:lien.couchez@rcmirabello.be)
+* **Lisa Rogiers:**  
+psychotherapeutisch werk  
+[lisa.rogiers@rcmirabello.be](mailto:lisa.rogiers@rcmirabello.be)
+* **Lorentz Verbeerst:**  
+psychiater  
+[lorentz.verbeerst@rcmirabello.be](mailto:lorentz.verbeerst@rcmirabello.be)
+* **Stefanie Hoebeeck:**  
+lichaamsgericht werk  
+[stefanie.hoebeeck@rcmirabello.be](mailto:stefanie.hoebeeck@rcmirabello.be)
