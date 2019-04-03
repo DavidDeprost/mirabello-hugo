@@ -6,13 +6,14 @@ draft: false
 ---
 
 #### Openingsuren
-Weekdagen van **8u30 tot 16u30**.
+Weekdagen van <span style='font-weight:bolder;'>8u30 tot 16u30</span>.
 
 #### Kostprijs
 De hulpverlening wordt vergoed door het ziekenfonds van de hulpvrager, die zelf een remgeld (1,77 euro jaarlijks indexeerbaar) betaalt per dag. De hulpvrager die geniet van de voorkeurregeling inzake ziekteverzekering betaalt geen remgeld.
 
 #### Aanmelding
-Via telefoonnummer **09/225 15 20** of **0473/24 59 05**.
+Via telefoonnummer <span style='font-weight:bolder;'>09/225 15 20</span>
+of <span style='font-weight:bolder;'>0473/24 59 05</span>.
 
 #### Procedure
 Na aanmelding wordt een intakegesprek geregeld; dit kan zowel thuis, in een ander centrum of op de locatie doorgaan. Tijdens de intake wordt de relevante info uitgewisseld en worden de wederzijdse verwachtingen getoetst.  Er wordt ook een onderhoud met dr. Lorentz Verbeerst, psychiater verbonden aan RC Mirabello, gepland.
