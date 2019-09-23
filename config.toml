@@ -1,4 +1,4 @@
-baseURL = "https://mirabello.gamegym.app/"
+baseURL = "https://daviddeprost.github.io/mirabello-hugo/"
 languageCode = "en-us"
 title = "Mirabello"
 theme = "hugo-theme-learn"
