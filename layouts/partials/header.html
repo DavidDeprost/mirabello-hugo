@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
   <head>
-    <!-- Adding the manifest.json here to get pwa functionality: -->
-    <link rel="manifest" href="/manifest.json">
+    <!-- Adding the manifest.json here to get PWA functionality: -->
+    <link rel="manifest" href="{{ "manifest.json" | relURL }}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ hugo.Generator }}
