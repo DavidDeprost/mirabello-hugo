@@ -2,7 +2,7 @@ backend:
   name: github
   repo: DavidDeprost/mirabello-hugo
   branch: master
-  site_domain: https://daviddeprost.github.io/mirabello-hugo/
+  site_domain: zen-mestorf-23ec0c.netlify.com
 
 # Use this if you don't want to commit directly to the publication branch,
 # and add an interface for drafting, reviewing, and approving posts:
