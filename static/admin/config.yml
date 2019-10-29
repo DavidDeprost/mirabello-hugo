@@ -1,0 +1,75 @@
+backend:
+  name: github
+  repo: DavidDeprost/mirabello-hugo
+  branch: master
+  site_domain: https://daviddeprost.github.io/mirabello-hugo/
+
+# Use this if you don't want to commit directly to the publication branch,
+# and add an interface for drafting, reviewing, and approving posts:
+# publish_mode: editorial_workflow
+
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads"      # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "posts"     # Used in routes, e.g., /admin/collections/posts
+    label: "Post"     # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true      # Allow users to create new documents in this collection
+    slug: "{{slug}}"  # Filename template; {{slug}} is a url-safe version of the post's title
+    fields:           # The fields for each document, usually in front matter:
+    # Fields listed here are shown as fields in the content editor,
+    # then saved as front matter at the beginning of the document
+    # (except for body, which follows the front matter).
+    # Each field contains the following properties:
+    # - label: Field label in the editor UI.
+    # - name: Field name in the document front matter.
+    # - widget: Determines UI style and value data type; When a content editor enters
+    #           a value here, that value is saved in the document front matter
+    #           as the value for the name specified for the field.
+    # - default (optional): Sets a default value for the field.
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        required: false
+        widget: "datetime"
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+      - label: "Categories"
+        name: "categories"
+        required: false
+        widget: "list"
+      - label: "Tags"
+        name: "tags"
+        required: false
+        widget: "list"
+      - label: "Keywords"
+        name: "keywords"
+        required: false
+        widget: "list"
+      - label: "Auto Thumbnail Image"
+        name: "autoThumbnailImage"
+        required: false
+        widget: "boolean"
+        default: true
+      - label: "Thumbnail Image Position"
+        name: "thumbnailImagePosition"
+        required: false
+        widget: "select"
+        options: ["left", "top", "right"]
+      - label: "Thumbnail Image"
+        name: "thumbnailImage"
+        required: false
+        widget: "image"
+      - label: "Cover Image"
+        name: "coverImage"
+        required: false
+        widget: "image"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
