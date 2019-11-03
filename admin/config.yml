@@ -31,6 +31,14 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Weight"
+        name: "weight"
+        required: false
+        widget: "number"
+        valueType: "int"
       - label: "Publish Date"
         name: "date"
         required: false
@@ -40,8 +48,3 @@ collections:
         required: false
         widget: "boolean"
         default: true
-      - label: "Weight"
-        name: "weight"
-        required: false
-        widget: "number"
-        valueType: "int"
