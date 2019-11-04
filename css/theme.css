@@ -1,7 +1,3 @@
-/* Mirabello specific modifications on the original theme:
-   l356, l477-490
-*/
-
 @charset "UTF-8";
 
 /* Tags */
@@ -351,9 +347,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     border: 1px solid #ccc;
 }
 #body .padding {
-    /* Change top padding below to 0 instead of 3 because it pads too much on desktops: */
-    /* padding: 3rem 6rem; */
-    padding: 0rem 6rem;
+    padding: 3rem 6rem;
 }
 @media only all and (max-width: 59.938em) {
     #body .padding {
@@ -473,22 +467,6 @@ h1 {
     color: #222;
     font-weight: 200;
 }
-
-/* Add small screen modifications for overflowing h1 titles: */
-@media only all and (max-width: 59.938em) {
-  h1 {
-    /* Decrease font-size because it overflows on mobile: */
-    font-size: 2.5rem;
-  }
-}
-@media only all and (max-width: 47.938em) {
-  h1 {
-    /* Decrease font-size because it overflows on mobile: */
-    font-size: 2.5rem;
-  }
-}
-/* End of modifications */
-
 blockquote {
     border-left: 10px solid #F0F2F4;
 }
@@ -668,7 +646,7 @@ code + .copy-to-clipboard {
 pre {
     padding: 1rem;
     margin: 2rem 0;
-    background: #1d1f21;
+    background: #282c34;
     border: 0;
     border-radius: 2px;
     line-height: 1.15;
@@ -1100,7 +1078,7 @@ pre .copy-to-clipboard {
     position: absolute;
     right: 4px;
     top: 4px;
-    background-color: #4d5257;
+    background-color: #949bab;
     color: #ccc;
     border-radius: 2px;
 }

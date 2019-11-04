@@ -1,6 +1,8 @@
+/* Mirabello specific modifications on the original hugo-theme.css:
+   l43-66
+*/
+
 /* Insert here special css for hugo theme, on top of any other imported css */
-
-
 /* Table of contents */
 
 .progress ul {
@@ -37,6 +39,31 @@ body {
     font-size: 16px !important;
     color: #323232 !important;
 }
+
+/* Start of Mirabello specific modifications: */
+
+/* Increase body font size on desktop: */
+@media not all and (hover: none) {
+  body {
+    font-size: 22px !important;
+  }
+}
+
+/* Increase #body-inner side padding on desktops, because content is spread too wide: */
+@media only all and (min-width: 75em) {
+  #body #body-inner {
+    padding: 0 6rem;
+  }
+}
+
+/* Add small screen modifications for overflowing h1 titles: */
+@media only all and (max-width: 59.938em) {
+  h1 {
+    /* Decrease font-size because it overflows on mobile: */
+    font-size: 2.5rem;
+  }
+}
+/* End of modifications */
 
 #body a.highlight, #body a.highlight:hover, #body a.highlight:focus {
     text-decoration: none;
