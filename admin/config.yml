@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: DavidDeprost/mirabello-hugo
+  repo: davidde/mirabello-hugo
   branch: master
   site_domain: zen-mestorf-23ec0c.netlify.com
 
